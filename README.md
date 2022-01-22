@@ -1,8 +1,9 @@
 # Unimelb-CS-subjects-
 Computer Science subjects completed so far as part of my MIT degree at Unimelb. 
 
-- Security Analytics
+
 - Algorithms and Complexity 
+- Security Analytics
 - Software processes and management 
 - Programming and software development 
 - Cryptography and Security 
